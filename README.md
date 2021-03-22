@@ -15,3 +15,4 @@ I am a full-stack programmer, focused on JS but with knowledge in Python, curren
 - AWS 👍
 - Docker 👍
 
+contact: badereduardo@gmail.com
